@@ -1,118 +1,136 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Salamon+S;Data+Engineer+%26+Machine+Learning+Developer;Python+%26+Full-Stack+Engineer;Building+Scalable+Data+Pipelines+%26+AI+Systems" alt="Salamon S Typing Header" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61AFEF&center=true&vCenter=true&width=750&height=60&lines=salamon%40dev-machine%3A~%24+whoami;Data+Engineer+%7C+Machine+Learning+%7C+Python+Developer;salamon%40dev-machine%3A~%24+cat+skills.json;Python+%E2%80%A2+PostgreSQL+%E2%80%A2+Django+%E2%80%A2+Flutter+%E2%80%A2+Supabase" alt="Terminal Header" />
+</div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/salamon08" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:salamonsavari2608@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/Salamon2608">
-    <img src="https://img.shields.io/github/followers/Salamon2608?label=Followers&logo=github&style=for-the-badge&color=00F0FF&logoColor=black" alt="Followers" />
-  </a>
-  <a href="https://github.com/Salamon2608?tab=repositories">
-    <img src="https://img.shields.io/github/stars/Salamon2608?label=Total%20Stars&logo=github&style=for-the-badge&color=7000FF&logoColor=white" alt="Total Stars" />
-  </a>
+  <a href="https://linkedin.com/in/salamon08"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:salamonsavari2608@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Salamon2608"><img src="https://img.shields.io/badge/GitHub-Salamon2608-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Location-Pondicherry%2C%20India-34D399?style=flat-square" alt="Location" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Salamon2608&color=00f0ff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+```python
+# 👨‍💻 salamon.py - Developer Profile & System State
 
----
+class DataEngineer:
+    def __init__(self):
+        self.name = "SALAMON S"
+        self.role = "Data Engineer | Machine Learning | Python Developer"
+        self.education = "MCA @ Sri Manakula Vinayagar Engineering College (2024-2026)"
+        self.previous_degree = "BCA @ Govt. College, Pondicherry (2021-2024)"
+        self.current_position = "Full Stack Developer Trainee @ Bright Up Digital"
+        self.location = "Pondicherry, India"
 
-## ⚡ About Me
+    def get_core_stack(self):
+        return {
+            "ml_analytics": ["Python", "Pandas", "NumPy", "Scikit-learn", "AdaBoost", "Random Forest"],
+            "data_engineering": ["PostgreSQL", "Supabase", "MySQL", "ETL Pipelines", "Data Modeling"],
+            "backend_apis": ["Django", "Node.js", "Express.js", "REST APIs", "Python", "Java", "PHP"],
+            "mobile_fullstack": ["Flutter", "Dart", "JavaScript", "HTML/CSS"],
+            "tools_cloud": ["AWS Academy Cloud", "Git/GitHub", "CCNA Networking", "Postman", "VS Code"]
+        }
 
-```json
-{
-  "name": "Salamon S",
-  "education": "Master of Computer Applications (MCA) @ SMVEC (2024-2026)",
-  "primary_roles": ["Data Engineer", "Machine Learning Engineer", "Python & Full-Stack Developer"],
-  "expertise": {
-    "data_ml": ["Ensemble Learning (AdaBoost, Random Forest)", "ETL Pipelines", "Predictive Modeling", "Feature Engineering"],
-    "backend_db": ["PostgreSQL", "Supabase", "MySQL", "Django", "Node.js/Express", "REST APIs"],
-    "frontend_mobile": ["Python", "JavaScript", "TypeScript", "Flutter", "Dart"]
-  },
-  "current_focus": "Building high-throughput data pipelines & AI/ML powered backend services"
-}
+    def status(self):
+        return "Eager to apply analytical thinking to build scalable data pipelines & AI solutions."
+
+if __name__ == "__main__":
+    dev = DataEngineer()
+    print(f"System Operational: {dev.name} | {dev.role}")
 ```
 
-- 🎓 **Education**: MCA Candidate at *Sri Manakula Vinayagar Engineering College* | BCA Graduate from *Indira Gandhi College of Arts & Science*.
-- 💼 **Professional Role**: Full Stack Developer Trainee at **Bright Up Digital** (Building AI/ML-driven systems & data pipelines).
-- 🏆 **Achievements**: **1st Prize Winner** at Pondicherry University Technical Quiz Competition.
-- 📜 **Certified**: **AWS Academy Graduate** | **CCNA L2 Enterprise Networking** | **Data Science Specialist**.
+---
+
+### 💻 `system.config` - Technical Stack
+
+```yaml
+Data Science & ML:
+  languages: [Python, SQL]
+  libraries: [Pandas, NumPy, Scikit-learn]
+  algorithms: [Ensemble Learning, AdaBoost, Random Forest, Feature Engineering]
+  metrics: [Accuracy, Precision/Recall, Statistical Evaluation]
+
+Data Engineering & Databases:
+  rdbms: [PostgreSQL, MySQL]
+  cloud_db: [Supabase]
+  architecture: [Database Design, Query Optimization, Data Modeling, REST API Pipelines]
+
+Web & Mobile Stack:
+  frameworks: [Django, Node.js, Express.js, Flutter]
+  languages: [Python, JavaScript, TypeScript, Dart, Java, PHP]
+  testing: [Postman, Integration Testing, Debugging & Performance Profiling]
+
+DevOps & Infrastructure:
+  certifications: [AWS Academy Cloud Foundations, CCNA L2 Networking]
+  tools: [Git, GitHub, VS Code, Android Studio, Agile/Scrum]
+```
 
 ---
 
-## 🛠️ Technical Ecosystem
+### 📦 `projects/` - Key Architectures & Systems
 
-| Domain | Technologies & Frameworks |
-| :--- | :--- |
-| **Data Science & ML** | `Python`, `Pandas`, `NumPy`, `Scikit-Learn`, `AdaBoost`, `Random Forest`, `Feature Engineering`, `ETL` |
-| **Databases & Data Eng** | `PostgreSQL`, `Supabase`, `MySQL`, `Data Modeling`, `Query Optimization`, `REST API Design` |
-| **Backend & Web** | `Django`, `Node.js`, `Express.js`, `Python`, `JavaScript`, `TypeScript`, `Java`, `PHP` |
-| **Mobile & Cross-Platform**| `Flutter`, `Dart`, `Melos Monorepo`, `Android Studio` |
-| **Cloud & DevOps** | `AWS Academy Cloud`, `Git/GitHub`, `CCNA Networking`, `Postman`, `VS Code` |
+#### 🛡️ `01_android_malware_classifier/`
+```bash
+$ git log --oneline -n 1
+commit a1b2c3d (HEAD -> main) Feature: Ensemble Learning APK Static Analysis Pipeline
+```
+- **Tech**: Python, AdaBoost, Androguard, Scikit-learn, Django, Tailwind CSS
+- **Metrics**: Achieved **95%+ classification accuracy** in Android malware detection.
+- **Pipeline**: Automated feature extraction (permissions, API calls, intent filters) + statistical evaluation dashboard.
 
----
+#### 🏋️ `02_gym_saas_multitenant/`
+```bash
+$ git log --oneline -n 1
+commit d4e5f6a (HEAD -> main) Feature: Supabase Real-time Backend & GPS Attendance
+```
+- **Tech**: Python, Supabase, PostgreSQL, GPS Geofencing, Payment Gateways
+- **Architecture**: Multi-tenant data isolation, role-based access control, real-time check-in engine, subscription billing.
 
-## 🚀 Key Projects Showcase
+#### 🍔 `03_canteen_management_system/`
+```bash
+$ git log --oneline -n 1
+commit f7e8d9c (HEAD -> main) Feature: High-Throughput PostgreSQL Inventory Schema
+```
+- **Tech**: Node.js, Express.js, PostgreSQL, REST APIs
+- **Metrics**: Optimized schema design for zero stock inconsistency, multi-tenant inventory tracking & operational analytics.
 
-### 🛡️ 1. Android Malware Detection System using Machine Learning
-> **Ensemble ML Classification Pipeline | 95%+ Accuracy**
-- Engineered an end-to-end Python APK static analysis pipeline extracting permissions, API calls, and intent filters using `Androguard`.
-- Applied ensemble learning (`AdaBoost`) achieving **95%+ classification accuracy**.
-- Built an interactive web dashboard in `Django`, `JavaScript`, and `Tailwind CSS` for clear statistical reporting.
-
-### 🏋️ 2. Multi-Tenant Gym Management SaaS Platform
-> **Scalable Multi-Tenant Architecture | Supabase & GPS Tracking**
-- Architected role-based data segregation and optimized database schemas to maintain tenant data integrity.
-- Implemented real-time backend processing with `Supabase`, GPS-based attendance validation, and automated subscription/billing modules.
-
-### 🍔 3. Campus Canteen Management System
-> **High-Concurrency Inventory & Operational Platform**
-- Designed an optimized `PostgreSQL` schema supporting complex real-time reporting and inventory tracking.
-- Developed RESTful APIs in `Node.js` & `Express.js` to manage multi-organization subscription monitoring and stock sync.
-
-### 📡 4. FiberJet — ISP & Field Operations Platform
-> **Enterprise Monorepo Architecture | Flutter & PostgreSQL**
-- Built a multi-app monorepo managing broadband customers, field technicians (GPS tracking), and admin analytics using `Flutter`, `Dart`, `Melos`, and `PostgreSQL`.
-
----
-
-## 📜 Certifications & Honors
-
-- ☁️ **AWS Academy Graduate** — AWS Academy Cloud Foundations
-- 🌐 **CCNA L2 Certified** — Enterprise Networking, Security, and Automation
-- 🧠 **AI Chatbots & Virtual Agents** — Udemy Certified
-- 📊 **Data Science Virtual Internship** — CodSoft
-- 🏛️ **Government Digital Internship 2026** — DIT & PeGS (E-Governance & Digital Service Delivery)
-- 🏆 **1st Prize** — Technical Quiz Competition, Pondicherry University
-- 🏆 **1st Prize** — Technical Quiz Competition, Idhaya College of Arts & Science
+#### 📡 `04_fiberjet_monorepo/`
+```bash
+$ git log --oneline -n 1
+commit e9d8c7b (HEAD -> main) Feature: Multi-App Monorepo with Melos & Flutter
+```
+- **Tech**: Flutter, Dart, Melos, PostgreSQL, REST API
+- **Architecture**: Enterprise ISP management suite (Admin Dashboard, Field Tech App with live GPS, Customer Portal).
 
 ---
 
-## 📊 GitHub Metrics & Activity
+### 🎓 Education & Certifications Log
+
+```log
+[EDUCATION]  2024 - 2026 : Master of Computer Applications (MCA) | Sri Manakula Vinayagar Engineering College
+[EDUCATION]  2021 - 2024 : Bachelor of Computer Applications (BCA) | Govt. College, Pondicherry
+[CERTIFIED]  May 2025   : AWS Academy Graduate - AWS Academy Cloud Foundations
+[CERTIFIED]  Jan 2026   : CCNA L2 - Enterprise Networking, Security, and Automation
+[CERTIFIED]  Feb 2026   : AI Chatbots & Virtual Agent Architecture (Udemy)
+[CERTIFIED]  Oct 2025   : Data Science Virtual Internship (CodSoft)
+[HONOR]      1st Prize  : Technical Quiz Competition @ Pondicherry University
+[HONOR]      1st Prize  : Technical Quiz Competition @ Idhaya College of Arts & Science
+```
+
+---
+
+### 📊 Developer Telemetry & Activity
 
 <p align="center">
-  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Salamon2608&show_icons=true&theme=synthwave&count_private=true&hide_border=true&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&bg_color=0B0F19" alt="Salamon's GitHub Stats" />
-  <img height="185" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salamon2608&layout=compact&theme=synthwave&hide_border=true&title_color=00F0FF&text_color=FFFFFF&bg_color=0B0F19" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Salamon2608&show_icons=true&theme=onedark&count_private=true&hide_border=true&title_color=61AFEF&icon_color=61AFEF&text_color=ABB2BF&bg_color=1E222A" alt="Salamon's Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salamon2608&layout=compact&theme=onedark&hide_border=true&title_color=61AFEF&text_color=ABB2BF&bg_color=1E222A" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salamon2608&theme=synthwave&hide_border=true&background=0B0F19&ring=00F0FF&fire=FF007A&currStreakNum=00F0FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Salamon2608&theme=onedark&hide_border=true&background=1E222A&ring=61AFEF&fire=98C379&currStreakNum=61AFEF" alt="Streak Stats" />
 </p>
 
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/salamon08" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="Connect on LinkedIn" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7000FF&height=100&section=footer" />
+  <code>$ echo "Let's build something scalable together!" && mailto:salamonsavari2608@gmail.com</code>
 </p>
