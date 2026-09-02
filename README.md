@@ -1,448 +1,229 @@
 <div align="center">
 
-<!-- ==================== ANIMATED TERMINAL HEADER ==================== -->
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=700&color=00FF41&center=true&vCenter=true&width=900&height=70&lines=root%40salamon%3A~%24+whoami;SALAMON+S;root%40salamon%3A~%24+./system_status.sh;SYSTEM+ONLINE+%7C%7C+ACCESS+GRANTED;DATA+ENGINEER+%7C+MACHINE+LEARNING+%7C+PYTHON;root%40salamon%3A~%24+./build_future.sh" alt="Animated Hacker Terminal" />
+<!-- HEADER WAVE BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1e1b4b,70:312e81,100:3b82f6&height=200&section=header&text=SALAMON%20S&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=42" width="100%" />
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B00,100:00FF41&height=120&section=header&text=SALAMON%20S&fontSize=38&fontColor=00FF41&animation=twinkling&fontAlignY=65" width="100%" />
+<!-- TYPING ANIMATION SUBHEADER -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=850&height=60&lines=Data+Engineer+%7C+Machine+Learning+Specialist;Python+%26+Backend+Architecture;Flutter+%26+Cross-Platform+Mobile+Developer;Building+Scalable+%26+Intelligent+Data+Systems" alt="Typing SVG" />
+</a>
+
+<p align="center">
+  <b>MCA Student @ SMVEC</b> &nbsp;•&nbsp; 
+  <b>Full Stack Developer Trainee @ Bright Up Digital</b> &nbsp;•&nbsp; 
+  <b>Pondicherry, India</b>
+</p>
+
+<!-- TOP SOCIAL / CONTACT BADGES -->
+<p align="center">
+  <a href="https://github.com/Salamon2608">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/salamon08">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:salmonsavari2608@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
+## 💫 About Me
+
+I am a passionate **Data Engineer**, **Machine Learning Practitioner**, and **Full-Stack Developer**. Currently pursuing my **Master of Computer Applications (MCA)** at Sri Manakula Vinayagar Engineering College and interning as a **Full Stack Developer Trainee** at Bright Up Digital.
+
+- 🔭 **Focus Areas:** Scalable Data Engineering, Machine Learning Pipelines, High-Throughput APIs, & Mobile Engineering.
+- 🎓 **Education:** MCA (2024–2026) | BCA (2021–2024)
+- 📜 **Certifications:** AWS Academy Graduate | CCNA L2 Certified | AI Chatbots Architecture
+- 🏆 **Recent Achievements:** 1st Prize in Technical Quizzes at Pondicherry University & Idhaya College
+- 💬 **Ask me about:** Python, Django, Supabase, Flutter, Scikit-Learn, and Data Modeling
+
+---
+
+## 🛠️ Technology Stack & Expertise
+
 <div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   ███████╗ █████╗ ██╗      █████╗ ███╗   ███╗ ██████╗ ███╗   ██╗ ║
-║   ██╔════╝██╔══██╗██║     ██╔══██╗████╗ ████║██╔═══██╗████╗  ██║ ║
-║   ███████╗███████║██║     ███████║██╔████╔██║██║   ██║██╔██╗ ██║ ║
-║   ╚════██║██╔══██║██║     ██╔══██║██║╚██╔╝██║██║   ██║██║╚██╗██║ ║
-║   ███████║██║  ██║███████╗██║  ██║██║ ╚═╝ ██║╚██████╔╝██║ ╚████║ ║
-║   ╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝ ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+### 🤖 Machine Learning & Data Analytics
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/AdaBoost-FF6F00?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Random_Forest-22C55E?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-### `// CYBER ENGINEERING TERMINAL`
+### 🗄️ Data Engineering & Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL_Pipelines-0052CC?style=for-the-badge&logo=diagramsdotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Modeling-6366F1?style=for-the-badge&logo=database&logoColor=white" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=1500&pause=300&color=39FF14&center=true&vCenter=true&width=850&height=45&lines=%5B+INITIALIZING+DEVELOPER+PROFILE...+%5D;%5B+LOADING+PYTHON+RUNTIME...+%5D;%5B+LOADING+ML+ENGINE...+%5D;%5B+CONNECTING+DATABASES...+%5D;%5B+STARTING+API+SERVICES...+%5D;%5B+ALL+SYSTEMS+OPERATIONAL+%5D" alt="Boot Sequence" />
+### ⚡ Backend & API Development
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</p>
+
+### 📱 Mobile & Frontend Engineering
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+</p>
+
+### ☁️ Tools & Infrastructure
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/CCNA_Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 </div>
 
 ---
 
-## `root@salamon:~$ ./identity.sh`
+## 🚀 Featured Engineering Projects
 
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│                     DEVELOPER IDENTITY                          │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  USER        : SALAMON S                                         │
-│  ROLE        : DATA ENGINEER                                    │
-│                MACHINE LEARNING                                 │
-│                PYTHON DEVELOPER                                 │
-│                                                                  │
-│  EDUCATION   : MCA @ Sri Manakula Vinayagar Engineering College │
-│                BCA @ Govt. College, Pondicherry                │
-│                                                                  │
-│  CURRENT     : Full Stack Developer Trainee                     │
-│                @ Bright Up Digital                              │
-│                                                                  │
-│  LOCATION    : Pondicherry, India                              │
-│                                                                  │
-│  STATUS      : [●] ONLINE                                       │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ Android Malware Classifier</h3>
+      <p><b>Static APK Analysis & Ensemble Machine Learning</b></p>
+      <ul>
+        <li><b>Stack:</b> Python, Django, AdaBoost, Scikit-learn, Androguard, Tailwind CSS</li>
+        <li><b>Accuracy:</b> 95%+ on malicious APK detection</li>
+        <li>Extracts permissions, API calls, and intent filters for statistical feature evaluation.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💪 Gym SaaS Multi-Tenant Platform</h3>
+      <p><b>Real-Time Fitness Management & Geofencing</b></p>
+      <ul>
+        <li><b>Stack:</b> Python, Supabase, PostgreSQL, Payment Gateways</li>
+        <li>Multi-tenant data isolation with Role-Based Access Control (RBAC).</li>
+        <li>Integrated live GPS attendance check-in engine & automated subscription billing.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍽️ Canteen Management System</h3>
+      <p><b>High-Throughput Inventory & Analytics</b></p>
+      <ul>
+        <li><b>Stack:</b> Node.js, Express.js, PostgreSQL, REST APIs</li>
+        <li>Designed high-throughput inventory schema ensuring 100% stock consistency.</li>
+        <li>Operational analytics dashboard for order volume and stock tracking.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 Fiberjet ISP Monorepo Platform</h3>
+      <p><b>Enterprise Internet Service Management System</b></p>
+      <ul>
+        <li><b>Stack:</b> Flutter, Dart, Melos, PostgreSQL, REST API</li>
+        <li>Multi-app architecture: Admin Panel, Technician App (GPS tracking), & Customer Portal.</li>
+        <li>Integrated billing, ticketing, and real-time field operations tracking.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🎓 Education & Professional Certifications
+
+<table width="100%">
+  <tr>
+    <th width="50%">🎓 Academic Background</th>
+    <th width="50%">📜 Professional Certifications & Internships</th>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h4>Master of Computer Applications (MCA)</h4>
+      <p>📅 <b>2024 – 2026</b> | 🏛️ <i>Sri Manakula Vinayagar Engineering College</i></p>
+      <hr>
+      <h4>Bachelor of Computer Applications (BCA)</h4>
+      <p>📅 <b>2021 – 2024</b> | 🏛️ <i>Govt. College, Pondicherry</i></p>
+    </td>
+    <td valign="top">
+      <ul>
+        <li><b>AWS Academy Graduate</b> – Cloud Foundations (May 2025)</li>
+        <li><b>CCNA L2</b> – Enterprise Networking, Security & Automation (Jan 2026)</li>
+        <li><b>AI Chatbots & Virtual Agent Architecture</b> – Udemy (Feb 2026)</li>
+        <li><b>Data Science Virtual Internship</b> – CodSoft (Oct 2025)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 Key Achievements
+
+- 🥇 **1st Prize** – Technical Quiz Competition @ *Pondicherry University*
+- 🥇 **1st Prize** – Technical Quiz Competition @ *Idhaya College of Arts & Science*
+
+---
+
+## 📊 Live GitHub Telemetry
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=400&color=00FF41&center=true&vCenter=true&width=800&height=40&lines=%3E+ANALYZE;%3E+DESIGN;%3E+BUILD;%3E+DEPLOY;%3E+OPTIMIZE;%3E+REPEAT" alt="Developer Loop" />
-
-</div>
-
----
-
-## `root@salamon:~$ cat /etc/core_stack`
-
-```python
-class DataEngineer:
-
-    def __init__(self):
-
-        self.name = "SALAMON S"
-
-        self.role = (
-            "Data Engineer | Machine Learning | "
-            "Python Developer"
-        )
-
-        self.stack = {
-            "ml_analytics": [
-                "Python",
-                "Pandas",
-                "NumPy",
-                "Scikit-learn",
-                "AdaBoost",
-                "Random Forest"
-            ],
-
-            "data_engineering": [
-                "PostgreSQL",
-                "Supabase",
-                "MySQL",
-                "ETL Pipelines",
-                "Data Modeling"
-            ],
-
-            "backend_apis": [
-                "Django",
-                "Node.js",
-                "Express.js",
-                "REST APIs",
-                "Python",
-                "Java",
-                "PHP"
-            ],
-
-            "mobile_fullstack": [
-                "Flutter",
-                "Dart",
-                "JavaScript",
-                "HTML/CSS"
-            ],
-
-            "tools_cloud": [
-                "AWS Academy Cloud",
-                "Git/GitHub",
-                "CCNA Networking",
-                "Postman",
-                "VS Code"
-            ]
-        }
-
-    def status(self):
-
-        return "SYSTEM OPERATIONAL"
-
-
-developer = DataEngineer()
-
-print(
-    f"[+] {developer.name} "
-    f"INITIALIZED"
-)
-```
-
----
-
-<div align="center">
-
-## `// LIVE SYSTEM TELEMETRY`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1200&pause=200&color=00FF41&center=true&vCenter=true&width=800&height=35&lines=%5B████████████████████████████████████████%5D+100%25;%5BSYSTEM%5D+PYTHON+%3A+ONLINE;%5BSYSTEM%5D+DATABASE+%3A+CONNECTED;%5BSYSTEM%5D+ML+ENGINE+%3A+READY;%5BSYSTEM%5D+API+GATEWAY+%3A+ONLINE;%5BSYSTEM%5D+STATUS+%3A+OPERATIONAL" alt="System Telemetry" />
-
-</div>
-
----
-
-# `root@salamon:~/projects$ ./scan_projects.sh`
-
-```text
-[ SCANNING PROJECT DIRECTORY... ]
-
-01  android-malware-classifier     [FOUND]
-02  gym-saas-multitenant           [FOUND]
-03  canteen-management-system      [FOUND]
-04  fiberjet-monorepo              [FOUND]
-
-[4 PROJECTS DETECTED]
-```
-
----
-
-## `01_android_malware_classifier/`
-
-```bash
-root@salamon:~/projects/android-malware-classifier$ git log --oneline -n 1
-
-a1b2c3d (HEAD -> main)
-Feature: Ensemble Learning APK Static Analysis Pipeline
-```
-
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│                  ANDROID MALWARE CLASSIFIER                     │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  LANGUAGE     : Python                                          │
-│  ML           : AdaBoost / Scikit-learn                         │
-│  ANALYSIS     : Androguard                                      │
-│  BACKEND      : Django                                          │
-│  UI           : Tailwind CSS                                    │
-│                                                                  │
-│  ACCURACY     : 95%+                                            │
-│                                                                  │
-│  PIPELINE                                                      │
-│  ├── Permission Extraction                                      │
-│  ├── API Call Analysis                                          │
-│  ├── Intent Filter Analysis                                     │
-│  ├── Feature Engineering                                        │
-│  └── Statistical Evaluation Dashboard                           │
-│                                                                  │
-│  STATUS       : [████████████████████] OPERATIONAL             │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `02_gym_saas_multitenant/`
-
-```bash
-root@salamon:~/projects/gym-saas$ git log --oneline -n 1
-
-d4e5f6a (HEAD -> main)
-Feature: Supabase Real-time Backend & GPS Attendance
-```
-
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│                    GYM SaaS PLATFORM                            │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  BACKEND      : Python / Supabase                              │
-│  DATABASE     : PostgreSQL                                     │
-│  FEATURES     : GPS Geofencing / Payment Gateways             │
-│                                                                  │
-│  ARCHITECTURE                                                     │
-│  ├── Multi-Tenant Data Isolation                               │
-│  ├── Role-Based Access Control                                 │
-│  ├── Real-Time Check-In Engine                                 │
-│  └── Subscription Billing                                      │
-│                                                                  │
-│  STATUS       : [████████████████████] OPERATIONAL             │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `03_canteen_management_system/`
-
-```bash
-root@salamon:~/projects/canteen$ git log --oneline -n 1
-
-f7e8d9c (HEAD -> main)
-Feature: High-Throughput PostgreSQL Inventory Schema
-```
-
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│                  CANTEEN MANAGEMENT SYSTEM                      │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  BACKEND      : Node.js / Express.js                           │
-│  DATABASE     : PostgreSQL                                     │
-│  API          : REST APIs                                      │
-│                                                                  │
-│  FEATURES                                                       │
-│  ├── High-Throughput Inventory Schema                           │
-│  ├── Multi-Tenant Tracking                                     │
-│  ├── Stock Consistency                                         │
-│  └── Operational Analytics                                     │
-│                                                                  │
-│  STATUS       : [████████████████████] OPERATIONAL             │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## `04_fiberjet_monorepo/`
-
-```bash
-root@salamon:~/projects/fiberjet$ git log --oneline -n 1
-
-e9d8c7b (HEAD -> main)
-Feature: Multi-App Monorepo with Melos & Flutter
-```
-
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│                    FIBERJET ISP PLATFORM                        │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  FRONTEND     : Flutter / Dart                                 │
-│  MONOREPO     : Melos                                           │
-│  DATABASE     : PostgreSQL                                     │
-│  API          : REST API                                       │
-│                                                                  │
-│  PLATFORM                                                       │
-│  ├── Admin Dashboard                                           │
-│  ├── Field Technician App                                      │
-│  ├── Live GPS                                                   │
-│  └── Customer Portal                                           │
-│                                                                  │
-│  STATUS       : [████████████████████] OPERATIONAL             │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
----
-
-# `root@salamon:~$ ./load_skills.sh`
-
-```text
-┌──────────────────────────────────────────────────────────────────┐
-│                       SKILL MATRIX                              │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  [01] MACHINE LEARNING                                          │
-│      Python • Pandas • NumPy • Scikit-learn                    │
-│      AdaBoost • Random Forest • Feature Engineering             │
-│                                                                  │
-│  [02] DATA ENGINEERING                                          │
-│      PostgreSQL • MySQL • Supabase                              │
-│      ETL Pipelines • Data Modeling • Query Optimization         │
-│                                                                  │
-│  [03] BACKEND                                                    │
-│      Django • Node.js • Express.js • REST APIs                 │
-│      Python • Java • PHP                                       │
-│                                                                  │
-│  [04] FULL STACK / MOBILE                                      │
-│      Flutter • Dart • JavaScript • TypeScript • HTML/CSS        │
-│                                                                  │
-│  [05] INFRASTRUCTURE                                            │
-│      AWS • Git • GitHub • CCNA • Postman • VS Code             │
-│                                                                  │
-└──────────────────────────────────────────────────────────────────┘
-```
-
----
-
-# `root@salamon:~/education$ cat credentials.log`
-
-```text
-[EDUCATION]
-
-2024 - 2026
-└── Master of Computer Applications (MCA)
-    Sri Manakula Vinayagar Engineering College
-
-2021 - 2024
-└── Bachelor of Computer Applications (BCA)
-    Govt. College, Pondicherry
-```
-
-```text
-[CERTIFICATIONS]
-
-[✓] May 2025
-    AWS Academy Graduate
-    AWS Academy Cloud Foundations
-
-[✓] January 2026
-    CCNA L2
-    Enterprise Networking, Security, and Automation
-
-[✓] February 2026
-    AI Chatbots & Virtual Agent Architecture
-    Udemy
-
-[✓] October 2025
-    Data Science Virtual Internship
-    CodSoft
-```
-
-```text
-[ACHIEVEMENTS]
-
-[★] 1st Prize
-    Technical Quiz Competition @ Pondicherry University
-
-[★] 1st Prize
-    Technical Quiz Competition @ Idhaya College of Arts & Science
-```
-
----
-
-# `root@salamon:~$ ./github_telemetry.sh`
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Salamon2608&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true&title_color=00FF41&icon_color=00FF41&text_color=00FF41&bg_color=050505" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salamon2608&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF41&text_color=00FF41&bg_color=050505" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Salamon2608&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&title_color=3b82f6&icon_color=60a5fa&text_color=94a3b8&bg_color=0d1117" />
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salamon2608&layout=compact&theme=tokyonight&hide_border=true&title_color=3b82f6&text_color=94a3b8&bg_color=0d1117" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Salamon2608&theme=dark&hide_border=true&background=050505&ring=00FF41&fire=00FF41&currStreakNum=00FF41&sideNums=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&dates=00FF41" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Salamon2608&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=60a5fa&currStreakNum=3b82f6&sideNums=60a5fa&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b" />
 
 </div>
 
 ---
 
-# `root@salamon:~$ ./network.sh`
+## 🌐 Connect & Network
 
 <div align="center">
 
-```text
-┌──────────────────────────────────────────────────────────────┐
-│                     NETWORK ACCESS                          │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  GITHUB      : github.com/Salamon2608                       │
-│  LINKEDIN    : linkedin.com/in/salamon08                    │
-│  EMAIL       : salmonsavari2608@gmail.com                   │
-│                                                              │
-│  CONNECTION  : ESTABLISHED                                  │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
-```
-
-<a href="https://github.com/Salamon2608">
-<img src="https://img.shields.io/badge/GITHUB-00FF41?style=for-the-badge&logo=github&logoColor=black&labelColor=050505" />
-</a>
+<p>Feel free to reach out for collaborations, technical discussions, or opportunities!</p>
 
 <a href="https://linkedin.com/in/salamon08">
-<img src="https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=050505" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://github.com/Salamon2608">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:salmonsavari2608@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="mailto:salamonsavari2608@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-00FF41?style=for-the-badge&logo=gmail&logoColor=black&labelColor=050505" />
-</a>
+<br><br>
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,50:312e81,100:0d1117&height=120&section=footer" width="100%" />
 
----
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=1700&pause=600&color=00FF41&center=true&vCenter=true&width=850&height=45&lines=root%40salamon%3A~%24+echo+%22Let's+build+something+scalable%22;%5BSYSTEM+READY%5D;%5BCONNECTION+ESTABLISHED%5D;%5BEND+OF+TRANSMISSION%5D" alt="Terminal Footer" />
-
-<br>
-
-```text
-01001000 01000001 01000011 01001011
-01000101 01010010 00100000 01001101 01001111 01000100 01000101
-```
-
-### `// SYSTEM STATUS: ONLINE`
-
-<sub>Built with Python, data, APIs, ML and a terminal mindset.</sub>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,50:003B00,100:000000&height=100&section=footer&animation=twinkling" width="100%" />
+<sub><i>Crafted with precision & passion by Salamon S</i></sub>
 
 </div>
