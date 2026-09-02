@@ -11,8 +11,8 @@
 </a>
 
 <p align="center">
-  <b>MCA Student @ SMVEC</b> &nbsp;•&nbsp; 
-  <b>Full Stack Developer Trainee @ Bright Up Digital</b> &nbsp;•&nbsp; 
+  <b>MCA Graduate @ SMVEC</b> &nbsp;•&nbsp; 
+  <b>Full Stack Developer @ Bright Up Digital</b> &nbsp;•&nbsp; 
   <b>Pondicherry, India</b>
 </p>
 
@@ -37,10 +37,10 @@
 
 ## 💫 About Me
 
-I am a passionate **Data Engineer**, **Machine Learning Practitioner**, and **Full-Stack Developer**. Currently pursuing my **Master of Computer Applications (MCA)** at Sri Manakula Vinayagar Engineering College and interning as a **Full Stack Developer Trainee** at Bright Up Digital.
+I am a passionate **Data Engineer**, **Machine Learning Practitioner**, and **Full-Stack Developer**. **MCA Graduate** from Sri Manakula Vinayagar Engineering College and working as a **Full Stack Developer** at Bright Up Digital.
 
 - 🔭 **Focus Areas:** Scalable Data Engineering, Machine Learning Pipelines, High-Throughput APIs, & Mobile Engineering.
-- 🎓 **Education:** MCA (2024–2026) | BCA (2021–2024)
+- 🎓 **Education:** MCA | BCA
 - 📜 **Certifications:** AWS Academy Graduate | CCNA L2 Certified | AI Chatbots Architecture
 - 🏆 **Recent Achievements:** 1st Prize in Technical Quizzes at Pondicherry University & Idhaya College
 - 💬 **Ask me about:** Python, Django, Supabase, Flutter, Scikit-Learn, and Data Modeling
@@ -160,8 +160,8 @@ I am a passionate **Data Engineer**, **Machine Learning Practitioner**, and **Fu
   </tr>
   <tr>
     <td valign="top">
-      <h4>Master of Computer Applications (MCA)</h4>
-      <p>📅 <b>2024 – 2026</b> | 🏛️ <i>Sri Manakula Vinayagar Engineering College</i></p>
+      <h4>Master of Computer Applications (MCA) Graduate</h4>
+      <p>🏛️ <i>Sri Manakula Vinayagar Engineering College</i></p>
       <hr>
       <h4>Bachelor of Computer Applications (BCA)</h4>
       <p>📅 <b>2021 – 2024</b> | 🏛️ <i>Govt. College, Pondicherry</i></p>
